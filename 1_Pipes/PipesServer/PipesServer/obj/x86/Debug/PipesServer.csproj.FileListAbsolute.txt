@@ -1,0 +1,9 @@
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb

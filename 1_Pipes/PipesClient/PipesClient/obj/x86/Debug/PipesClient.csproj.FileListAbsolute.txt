@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\bin\Debug\PipesClient.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\bin\Debug\PipesClient.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\PipesClient.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\PipesClient\PipesClient\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.exe
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\bin\Debug\PipesClient.exe
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\bin\Debug\PipesClient.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\PipesClient\PipesClient\obj\x86\Debug\PipesClient.csproj.GenerateResource.Cache

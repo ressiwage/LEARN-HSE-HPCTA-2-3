@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsclient\\mailslotsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839A704F-D7A6-4BB6-A349-3DCA681DB55D}|MailSlotsClient\\MailSlotsClient.csproj|solutionrelative:mailslotsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Types.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Types.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Types.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Types.cs",
+              "RelativeToolTip": "MailSlotsClient\\Types.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:01:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Import.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Import.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Import.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Import.cs",
+              "RelativeToolTip": "MailSlotsClient\\Import.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:59:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.designer.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.designer.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Client.designer.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.designer.cs",
+              "RelativeToolTip": "MailSlotsClient\\Client.designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwHUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:24:37.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Client.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.cs",
+              "RelativeToolTip": "MailSlotsClient\\Client.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwJYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:03:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Client.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MailSlotsClient\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:03:40.934Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Program.cs",
+              "RelativeDocumentMoniker": "MailSlotsClient\\Program.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsClient\\MailSlotsClient\\Program.cs",
+              "RelativeToolTip": "MailSlotsClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:03:33.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

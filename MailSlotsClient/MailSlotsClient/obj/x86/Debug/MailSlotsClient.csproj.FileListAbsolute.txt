@@ -1,0 +1,36 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\mscorlib.dll
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\ru\mscorlib.resources.dll
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\sortkey.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\sorttbls.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\big5.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\bopomofo.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\ksc.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\prc.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\prcp.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\xjis.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normidna.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfc.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfd.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkc.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkd.nlp
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.AssemblyReference.cache
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.cache
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CoreCompileInputs.cache
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlot.0CA59F09.Up2Date
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+W:\desktop\учеба\тиавв\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
