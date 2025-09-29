@@ -115,8 +115,6 @@ namespace MailSlots
                                     if (SendToPipe(message, pipe) == 0)
                                     {
                                         delete.Add(pipe);
-
-
                                     }
                                 }
                                 foreach (var pipe in delete)

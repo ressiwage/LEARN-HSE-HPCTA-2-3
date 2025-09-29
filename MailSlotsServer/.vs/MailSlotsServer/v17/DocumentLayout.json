@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{59F51B45-57D3-408E-BBDE-BBB8F19AC60C}|MailSlotsServer\\MailSlotsServer.csproj|solutionrelative:mailslotsserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F51B45-57D3-408E-BBDE-BBB8F19AC60C}|MailSlotsServer\\MailSlotsServer.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_mailslots\\mailslotsserver\\mailslotsserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{59F51B45-57D3-408E-BBDE-BBB8F19AC60C}|MailSlotsServer\\MailSlotsServer.csproj|W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsServer\\mailslotsserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{59F51B45-57D3-408E-BBDE-BBB8F19AC60C}|MailSlotsServer\\MailSlotsServer.csproj|solutionrelative:mailslotsserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "MailSlotsServer\\Server.cs",
               "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsServer\\MailSlotsServer\\Server.cs",
               "RelativeToolTip": "MailSlotsServer\\Server.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAswD8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAADgv28AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T14:04:35.264Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\2_MailSlots\\MailSlotsServer\\MailSlotsServer\\Server.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MailSlotsServer\\Server.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T14:04:32.494Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-09-27T14:04:32.494Z"
             }
           ]
         }
